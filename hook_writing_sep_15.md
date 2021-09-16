@@ -5,7 +5,7 @@ https://randomwordgenerator.com/phrase.php
 the video: 
 https://www.youtube.com/watch?v=CMe_mm0_wOk&t=3s
 
-## Topic = Nature
+**Topic = Nature
 * Exclamation - I enjoy doing exercises in nature!
 * Onomatopoeia - (word sound)   “Crash” the tree fell over almost hitting a leaping squirrel. 
 
@@ -52,7 +52,7 @@ Chess makes me feel alive and provides big brain power to help me develop my men
 
 
 
-# Nature: 
+** Nature: 
 
 The Smoky Mountain embraces a mysterious veil in the summer as if people walk into a wonderland.  (Hook)
 The Smoky Mountains make people feel like walking in the wonderland because they have such a mysterious presence in the summer, in which it is usually foggy and damp.  (GS)
@@ -68,7 +68,9 @@ The warm, calm waves crash during the multicolored, beautiful sunset. Vacationin
 
 
 I love Jazz music. (GS) 
-**My Example: ** 
+
+**My Example:** 
+
 The bar people start to heat it up. 
 The  saxophone player stirs the emotions in the room. 
 People begin to swing with the first drop of the high notes and can’t help but to rhythmically swaying their bodies with the music. 
