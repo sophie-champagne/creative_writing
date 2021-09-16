@@ -5,14 +5,14 @@ https://randomwordgenerator.com/phrase.php
 the video: 
 https://www.youtube.com/watch?v=CMe_mm0_wOk&t=3s
 
-**Topic = Nature
+Topic = Nature
 * Exclamation - I enjoy doing exercises in nature!
 * Onomatopoeia - (word sound)   “Crash” the tree fell over almost hitting a leaping squirrel. 
 
-**The murmuring sound of the running stream pleases everybody. 
+The murmuring sound of the running stream pleases everybody. 
 
 
-**Closed Questions - Have you visited the place ? 
+### Closed Questions - Have you visited the place ? 
 Have you visited the coffee shop at the corner? 
 Have you visited the coffee shop at the corner of 55th Street in NYC? (be specific of the writing) 
 
@@ -21,7 +21,7 @@ Quote - “ ………………………… ”
 
 “Be water, my friend!” That is what Bruce Lee said on how to treat his life. 
 
-Hooks - must be:
+## Hooks - must be:
 Creative, unusual
 Figurative language,
 Engaging verbs
@@ -52,7 +52,7 @@ Chess makes me feel alive and provides big brain power to help me develop my men
 
 
 
-** Nature: 
+Nature: 
 
 The Smoky Mountain embraces a mysterious veil in the summer as if people walk into a wonderland.  (Hook)
 The Smoky Mountains make people feel like walking in the wonderland because they have such a mysterious presence in the summer, in which it is usually foggy and damp.  (GS)
